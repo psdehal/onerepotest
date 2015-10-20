@@ -1,5 +1,5 @@
 module-name:
-    onerepotest
+    PSDonerepotest
 
 module-version:
     0.0.1
@@ -11,4 +11,4 @@ service-language:
     python
 
 owners:
-    [rsutormin, wstester1]
+    [rsutormin, wstester1, psdehal]
